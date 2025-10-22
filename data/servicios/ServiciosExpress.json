@@ -1,0 +1,188 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "titulo": "Software a Medida (Express)",
+            "nivel": "Express",
+            "descripcion": "Sistema rápido y funcional, ideal para necesidades puntuales que requieren entrega inmediata.",
+            "problema": "Procesos simples o tareas repetitivas que necesitan automatización sin desarrollar un sistema complejo completo.",
+            "precio": "Desde $12,000 MXN",
+            "tiempo": "5-10 días hábiles",
+            "inversion": "$12,000 - $25,000 MXN",
+            "notaInversion": "Depende del alcance y número de módulos requeridos.",
+            "tags": [
+                "Entrega rápida",
+                "Funcionalidad básica",
+                "Soporte limitado"
+            ],
+            "caracteristicas": [
+                "Interfaz moderna y responsiva",
+                "Login seguro y roles de usuario básicos",
+                "Módulo CRUD básico",
+                "Dashboard con reportes simples",
+                "Exportación a Excel/PDF",
+                "Hosting incluido por 1 año",
+                "Base de datos integrada (SQLite o SQL Server Express)"
+            ],
+            "beneficios": [
+                "Automatización inmediata",
+                "Rápida puesta en marcha",
+                "Costo inicial bajo y escalable"
+            ],
+            "casosUso": [
+                "Sistemas internos simples",
+                "Digitalización de tareas puntuales",
+                "Prototipos funcionales rápidos"
+            ],
+            "tecnologias": [
+                "React",
+                "TypeScript",
+                ".NET Core o Java",
+                "SQLite o PostgreSQL"
+            ],
+            "entregables": [
+                "Código fuente documentado",
+                "Aplicación funcional en entorno productivo",
+                "Manual rápido de uso"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Análisis",
+                    "duracion": "1-2 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "3-7 días"
+                },
+                {
+                    "etapa": "QA",
+                    "duracion": "1 día"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwarexpress.webp",
+            "color": "gray"
+        },
+        {
+            "id": 2,
+            "titulo": "Aplicaciones Android (Express)",
+            "nivel": "Express",
+            "descripcion": "App móvil básica y funcional, lista para mostrar tus servicios o productos rápidamente.",
+            "problema": "Negocios que requieren presencia móvil inmediata sin esperar el desarrollo completo de una app avanzada.",
+            "precio": "Desde $9,000 MXN",
+            "tiempo": "7-10 días hábiles",
+            "inversion": "$9,000 - $18,000 MXN",
+            "notaInversion": "Depende de funcionalidades y diseño solicitado.",
+            "tags": [
+                "Entrega rápida",
+                "Funcionalidad básica",
+                "Soporte limitado"
+            ],
+            "caracteristicas": [
+                "Pantalla de bienvenida y branding corporativo",
+                "Sección de información o servicios",
+                "Catálogo o galería básica",
+                "Botón de WhatsApp y llamadas",
+                "Mapa de ubicación",
+                "Panel para actualizar contenido",
+                "Publicación APK incluida"
+            ],
+            "beneficios": [
+                "Presencia móvil inmediata",
+                "Interacción rápida con usuarios",
+                "Costo inicial bajo y escalable"
+            ],
+            "casosUso": [
+                "Apps para promoción de productos",
+                "Apps informativas o de contacto",
+                "Prototipos rápidos de aplicación"
+            ],
+            "tecnologias": [
+                "React Native",
+                "TypeScript",
+                "Firebase"
+            ],
+            "entregables": [
+                "APK firmado",
+                "Código fuente documentado",
+                "Manual rápido de uso"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "1-2 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "5-7 días"
+                },
+                {
+                    "etapa": "Testing",
+                    "duracion": "1 día"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appexpress.webp",
+            "color": "gray"
+        },
+        {
+            "id": 3,
+            "titulo": "Páginas Web (Express)",
+            "nivel": "Express",
+            "descripcion": "Sitio web rápido, funcional y responsivo, con hosting y dominio incluido, listo para publicar en días.",
+            "problema": "Negocios sin presencia digital inmediata o que necesitan un sitio web simple para arrancar.",
+            "precio": "Desde $3,000 MXN",
+            "tiempo": "3-5 días hábiles",
+            "inversion": "$3,000 - $6,000 MXN",
+            "notaInversion": "Depende del número de secciones y contenido solicitado.",
+            "tags": [
+                "Entrega rápida",
+                "One Page",
+                "Soporte incluido"
+            ],
+            "caracteristicas": [
+                "Dominio .com y hosting por 1 año",
+                "Certificado SSL incluido",
+                "Estructura One Page fluida",
+                "Galería de hasta 12 imágenes",
+                "Formulario de contacto funcional",
+                "Botón de WhatsApp y redes sociales",
+                "Optimización SEO básica y carga rápida"
+            ],
+            "beneficios": [
+                "Presencia online inmediata",
+                "Rápida puesta en marcha",
+                "Costo inicial bajo y escalable"
+            ],
+            "casosUso": [
+                "Landing pages para negocios",
+                "Sitios informativos de empresa",
+                "Portafolios rápidos"
+            ],
+            "tecnologias": [
+                "Next.js",
+                "Tailwind",
+                "Vercel"
+            ],
+            "entregables": [
+                "Sitio desplegado y funcional",
+                "Código fuente documentado",
+                "Guía rápida de administración"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "1 día"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "2-3 días"
+                },
+                {
+                    "etapa": "QA",
+                    "duracion": "1 día"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webexpress.webp",
+            "color": "gray"
+        }
+    ]
+}

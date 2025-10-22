@@ -1,0 +1,187 @@
+{
+    "servicios": [
+        {
+            "id": 7,
+            "titulo": "Software a Medida (Estándar)",
+            "nivel": "Estándar",
+            "descripcion": "Sistema empresarial con múltiples módulos, reportes avanzados y conexión a servicios externos.",
+            "problema": "Empresas en crecimiento que requieren un sistema robusto para gestionar diferentes áreas del negocio.",
+            "precio": "Desde $45,000 MXN",
+            "tiempo": "3-5 semanas",
+            "inversion": "$45,000 - $80,000 MXN",
+            "notaInversion": "Depende de la complejidad de los módulos e integraciones requeridas.",
+            "tags": [
+                "SaaS",
+                "Integraciones externas",
+                "Reportes avanzados"
+            ],
+            "caracteristicas": [
+                "Diseño modular y escalable",
+                "Autenticación y roles personalizados",
+                "Reportes PDF/Excel avanzados",
+                "Integración con APIs externas (Google, Stripe, etc.)",
+                "Dashboard con métricas dinámicas",
+                "Soporte multilenguaje",
+                "Panel de administración completo"
+            ],
+            "beneficios": [
+                "Gestión integral de la empresa",
+                "Automatización de flujos de trabajo",
+                "Escalabilidad a largo plazo"
+            ],
+            "casosUso": [
+                "Sistemas ERP ligeros",
+                "Plataformas de gestión de clientes y ventas",
+                "Sistemas administrativos completos"
+            ],
+            "tecnologias": [
+                ".NET Core",
+                "React",
+                "PostgreSQL",
+                "Redis"
+            ],
+            "entregables": [
+                "Código fuente y documentación técnica",
+                "Instalación y configuración inicial",
+                "Capacitación básica para el equipo"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Análisis y arquitectura",
+                    "duracion": "5 días"
+                },
+                {
+                    "etapa": "Desarrollo modular",
+                    "duracion": "10-15 días"
+                },
+                {
+                    "etapa": "Testing y entrega",
+                    "duracion": "3-5 días"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwareestandar.webp",
+            "color": "yellow"
+        },
+        {
+            "id": 8,
+            "titulo": "Aplicaciones Android (Estándar)",
+            "nivel": "Estándar",
+            "descripcion": "Aplicación móvil profesional conectada a base de datos y panel de administración con control total.",
+            "problema": "Negocios que requieren apps estables con conexión a servicios web y panel para gestión dinámica.",
+            "precio": "Desde $35,000 MXN",
+            "tiempo": "3-4 semanas",
+            "inversion": "$35,000 - $60,000 MXN",
+            "notaInversion": "Depende del número de pantallas e integraciones.",
+            "tags": [
+                "Panel completo",
+                "API REST",
+                "Notificaciones push"
+            ],
+            "caracteristicas": [
+                "App con login seguro y persistencia de sesión",
+                "Panel web de administración avanzado",
+                "Sincronización con base de datos en la nube",
+                "Notificaciones push automáticas",
+                "Carga de imágenes y archivos",
+                "Reportes de actividad y estadísticas"
+            ],
+            "beneficios": [
+                "Control total del flujo de datos",
+                "Interfaz moderna y profesional",
+                "Sincronización en tiempo real"
+            ],
+            "casosUso": [
+                "Aplicaciones de reservas o pedidos",
+                "Gestión de clientes o productos",
+                "Apps corporativas conectadas a backend"
+            ],
+            "tecnologias": [
+                "React Native",
+                "TypeScript",
+                "Node.js",
+                "Firebase"
+            ],
+            "entregables": [
+                "APK firmado y panel desplegado",
+                "Código fuente completo",
+                "Guía de uso y mantenimiento"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño y arquitectura",
+                    "duracion": "4 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "10-12 días"
+                },
+                {
+                    "etapa": "Testing y publicación",
+                    "duracion": "3 días"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appestandar.webp",
+            "color": "yellow"
+        },
+        {
+            "id": 9,
+            "titulo": "Páginas Web (Estándar)",
+            "nivel": "Estándar",
+            "descripcion": "Sitio web profesional con panel de administración, blog integrado y herramientas de posicionamiento SEO.",
+            "problema": "Negocios o marcas que necesitan una presencia web completa con gestión de contenido constante.",
+            "precio": "Desde $12,000 MXN",
+            "tiempo": "2-3 semanas",
+            "inversion": "$12,000 - $20,000 MXN",
+            "notaInversion": "Depende de la cantidad de secciones y funcionalidades adicionales.",
+            "tags": [
+                "Blog",
+                "SEO",
+                "Panel completo"
+            ],
+            "caracteristicas": [
+                "Panel administrativo completo (CMS)",
+                "Secciones totalmente personalizables",
+                "Blog con editor visual",
+                "Optimización SEO avanzada",
+                "Hosting con CDN y seguridad SSL",
+                "Integración con Google Analytics"
+            ],
+            "beneficios": [
+                "Control total del contenido",
+                "Mejor posicionamiento en buscadores",
+                "Actualizaciones rápidas sin depender de terceros"
+            ],
+            "casosUso": [
+                "Sitios empresariales o institucionales",
+                "Portales de noticias o blogs corporativos",
+                "Landing pages con estrategia SEO"
+            ],
+            "tecnologias": [
+                "Next.js",
+                "Tailwind",
+                "Supabase"
+            ],
+            "entregables": [
+                "Sitio desplegado en hosting",
+                "Panel CMS integrado",
+                "Código fuente documentado"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "3 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "8 días"
+                },
+                {
+                    "etapa": "QA y optimización",
+                    "duracion": "2 días"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webestandar.webp",
+            "color": "yellow"
+        }
+    ]
+}

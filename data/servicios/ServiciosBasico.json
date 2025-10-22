@@ -1,0 +1,186 @@
+{
+    "servicios": [
+        {
+            "id": 4,
+            "titulo": "Software a Medida (Básico)",
+            "nivel": "Básico",
+            "descripcion": "Sistema personalizado con módulos principales para la operación de tu negocio, adaptado a tus procesos clave.",
+            "problema": "Empresas que necesitan digitalizar procesos internos, pero aún no requieren automatizaciones avanzadas o integraciones externas.",
+            "precio": "Desde $25,000 MXN",
+            "tiempo": "2-3 semanas",
+            "inversion": "$25,000 - $40,000 MXN",
+            "notaInversion": "Depende del número de módulos y personalización solicitada.",
+            "tags": [
+                "Desarrollo a medida",
+                "Base de datos integrada",
+                "Interfaz personalizada"
+            ],
+            "caracteristicas": [
+                "Diseño de interfaz adaptado a tu marca",
+                "Gestión de usuarios y roles avanzados",
+                "Módulo de reportes personalizados",
+                "Dashboard analítico",
+                "Base de datos SQL integrada",
+                "Seguridad con cifrado de contraseñas",
+                "API REST opcional para integraciones futuras"
+            ],
+            "beneficios": [
+                "Control centralizado de operaciones",
+                "Escalabilidad futura sin rehacer el sistema",
+                "Automatización de procesos clave"
+            ],
+            "casosUso": [
+                "Gestión de inventarios o clientes",
+                "Sistemas internos de registro o seguimiento",
+                "Administración de procesos específicos"
+            ],
+            "tecnologias": [
+                "React",
+                "TypeScript",
+                ".NET Core",
+                "PostgreSQL"
+            ],
+            "entregables": [
+                "Código fuente completo",
+                "Manual de instalación y uso",
+                "Sistema desplegado en hosting o servidor"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Análisis y diseño",
+                    "duracion": "3-4 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "7-10 días"
+                },
+                {
+                    "etapa": "Pruebas y entrega",
+                    "duracion": "3 días"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwarebasico.webp",
+            "color": "blue"
+        },
+        {
+            "id": 5,
+            "titulo": "Aplicaciones Android (Básico)",
+            "nivel": "Básico",
+            "descripcion": "App funcional con panel de administración para actualizar contenido y recibir información de usuarios.",
+            "problema": "Empresas que necesitan una aplicación práctica para ofrecer productos o servicios con administración sencilla.",
+            "precio": "Desde $18,000 MXN",
+            "tiempo": "2-3 semanas",
+            "inversion": "$18,000 - $35,000 MXN",
+            "notaInversion": "Depende del número de pantallas y funciones interactivas.",
+            "tags": [
+                "Panel de administración",
+                "Firebase",
+                "Diseño responsivo"
+            ],
+            "caracteristicas": [
+                "Diseño UI/UX adaptado a tu marca",
+                "Panel web para gestión de contenido",
+                "Base de datos en tiempo real (Firebase o SQL)",
+                "Notificaciones push básicas",
+                "Publicación en Play Store opcional",
+                "Sistema de autenticación por correo o Google"
+            ],
+            "beneficios": [
+                "Control total del contenido",
+                "Experiencia profesional para el usuario",
+                "Escalable a funciones más avanzadas"
+            ],
+            "casosUso": [
+                "Catálogos con panel de control",
+                "Apps informativas o de registro",
+                "Aplicaciones para clientes o personal interno"
+            ],
+            "tecnologias": [
+                "React Native",
+                "TypeScript",
+                "Firebase"
+            ],
+            "entregables": [
+                "APK firmado",
+                "Panel de control en hosting",
+                "Código fuente documentado"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "3 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "8-10 días"
+                },
+                {
+                    "etapa": "Testing y publicación",
+                    "duracion": "2 días"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appbasico.webp",
+            "color": "blue"
+        },
+        {
+            "id": 6,
+            "titulo": "Páginas Web (Básico)",
+            "nivel": "Básico",
+            "descripcion": "Sitio web completo con panel de administración simple para actualizar información y galería.",
+            "problema": "Negocios que requieren presencia online profesional y editable sin conocimientos técnicos.",
+            "precio": "Desde $6,000 MXN",
+            "tiempo": "1-2 semanas",
+            "inversion": "$6,000 - $10,000 MXN",
+            "notaInversion": "Depende de número de secciones, panel y animaciones.",
+            "tags": [
+                "Editable",
+                "Hosting incluido",
+                "Optimización SEO"
+            ],
+            "caracteristicas": [
+                "Panel administrativo con login seguro",
+                "Secciones totalmente editables",
+                "Galería multimedia",
+                "Formularios de contacto y cotización",
+                "Botón de WhatsApp y Google Maps",
+                "SEO y carga rápida optimizada"
+            ],
+            "beneficios": [
+                "Control del contenido sin programar",
+                "Diseño adaptable y moderno",
+                "Mejor posicionamiento en buscadores"
+            ],
+            "casosUso": [
+                "Webs empresariales con panel",
+                "Portafolios administrables",
+                "Sitios institucionales"
+            ],
+            "tecnologias": [
+                "Next.js",
+                "Tailwind",
+                "SQLite"
+            ],
+            "entregables": [
+                "Sitio funcional desplegado",
+                "Panel de control incluido",
+                "Código fuente documentado"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "2 días"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "6-8 días"
+                },
+                {
+                    "etapa": "QA y entrega",
+                    "duracion": "1 día"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webbasico.webp",
+            "color": "blue"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "servicios": [
+        {
+            "id": 10,
+            "titulo": "Software a Medida (Premium)",
+            "nivel": "Premium",
+            "descripcion": "Plataforma empresarial robusta y escalable con analítica avanzada, integraciones complejas y soporte extendido.",
+            "problema": "Empresas con alto volumen de usuarios o datos que necesitan un sistema estable, seguro y adaptable.",
+            "precio": "Desde $180,000 MXN",
+            "tiempo": "13-17 semanas",
+            "inversion": "$180,000 - $450,000 MXN",
+            "notaInversion": "Depende del nivel de personalización y complejidad del sistema.",
+            "tags": [
+                "Escalable",
+                "Analítica avanzada",
+                "Soporte 24/7"
+            ],
+            "caracteristicas": [
+                "Backend en .NET Core o Java Spring Boot",
+                "Frontend en React / Next.js + TypeScript",
+                "Analítica e informes avanzados",
+                "Infraestructura escalable (Docker / CI/CD)",
+                "Integración con APIs y servicios externos"
+            ],
+            "beneficios": [
+                "Decisiones basadas en datos",
+                "Alta disponibilidad y rendimiento",
+                "Soporte técnico extendido y monitoreo continuo"
+            ],
+            "casosUso": [
+                "Sistemas empresariales complejos",
+                "Plataformas SaaS multiusuario",
+                "Automatización de operaciones a gran escala"
+            ],
+            "tecnologias": [
+                "React / Next.js",
+                "TypeScript",
+                ".NET Core o Java",
+                "Docker / PostgreSQL"
+            ],
+            "entregables": [
+                "Código fuente documentado",
+                "Infraestructura en la nube",
+                "Manual de administración y monitoreo"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Análisis",
+                    "duracion": "2 semanas"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "9-13 semanas"
+                },
+                {
+                    "etapa": "QA + ajustes",
+                    "duracion": "2 semanas"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwarepremium.webp",
+            "color": "indigo"
+        },
+        {
+            "id": 11,
+            "titulo": "Aplicaciones Android (Premium)",
+            "nivel": "Premium",
+            "descripcion": "App móvil avanzada con sincronización en tiempo real, seguridad reforzada y soporte a largo plazo.",
+            "problema": "Empresas que requieren un producto móvil sólido, seguro y escalable para gran volumen de usuarios.",
+            "precio": "Desde $126,000 MXN",
+            "tiempo": "12-16 semanas",
+            "inversion": "$126,000 - $270,000 MXN",
+            "notaInversion": "Depende de las integraciones y funcionalidades premium.",
+            "tags": [
+                "Realtime",
+                "Push Notifications",
+                "Seguridad avanzada"
+            ],
+            "caracteristicas": [
+                "Sincronización en tiempo real (Firestore / API propia)",
+                "Autenticación avanzada y cifrado",
+                "Push Notifications configuradas",
+                "Testing automatizado y CI/CD"
+            ],
+            "beneficios": [
+                "Mayor retención de usuarios",
+                "Integraciones avanzadas y escalabilidad",
+                "Seguridad y mantenimiento continuo"
+            ],
+            "casosUso": [
+                "Aplicaciones SaaS móviles",
+                "Sistemas con usuarios concurrentes",
+                "Apps con autenticación avanzada"
+            ],
+            "tecnologias": [
+                "React Native o Kotlin",
+                "Firebase / Firestore",
+                "Cloud Functions",
+                "TypeScript"
+            ],
+            "entregables": [
+                "APK y AAB firmados",
+                "Código fuente completo",
+                "Documentación técnica y manual de soporte"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "2 semanas"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "8-12 semanas"
+                },
+                {
+                    "etapa": "Testing + ajustes",
+                    "duracion": "2 semanas"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appremium.webp",
+            "color": "emerald"
+        },
+        {
+            "id": 12,
+            "titulo": "Páginas Web (Premium)",
+            "nivel": "Premium",
+            "descripcion": "Sitio completamente personalizado con CMS integrado, animaciones y optimización avanzada para conversiones.",
+            "problema": "Empresas que buscan controlar su contenido, mejorar su posicionamiento y ofrecer una experiencia visual moderna.",
+            "precio": "Desde $54,000 MXN",
+            "tiempo": "6-7 semanas",
+            "inversion": "$54,000 - $144,000 MXN",
+            "notaInversion": "Depende del CMS y las animaciones personalizadas.",
+            "tags": [
+                "CMS",
+                "SEO avanzado",
+                "Animaciones"
+            ],
+            "caracteristicas": [
+                "CMS personalizado (Sanity o Strapi)",
+                "Animaciones fluidas y microinteracciones",
+                "SEO técnico y optimización avanzada",
+                "Integración con analítica y remarketing"
+            ],
+            "beneficios": [
+                "+40% en conversiones",
+                "Control total del contenido",
+                "Experiencia visual moderna y diferenciada"
+            ],
+            "casosUso": [
+                "Sitios con contenido dinámico",
+                "Blogs administrables",
+                "Webs animadas con enfoque en conversión"
+            ],
+            "tecnologias": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind",
+                "Vercel",
+                "Sanity CMS"
+            ],
+            "entregables": [
+                "Sitio desplegado y documentado",
+                "Código fuente completo",
+                "Panel CMS funcional"
+            ],
+            "timeline": [
+                {
+                    "etapa": "Diseño",
+                    "duracion": "1 semana"
+                },
+                {
+                    "etapa": "Desarrollo",
+                    "duracion": "4-5 semanas"
+                },
+                {
+                    "etapa": "Ajustes + CMS",
+                    "duracion": "1 semana"
+                }
+            ],
+            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webpremium.webp",
+            "color": "fuchsia"
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+[
+    {
+        "id": 1,
+        "color": "gray",
+        "level": "Express",
+        "title": "Software a Medida (Express)",
+        "desc": "Mini sistema interno listo en pocos días. Ideal para tareas simples o pruebas de concepto.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/softwareExpressIcon.webp",
+        "features": [
+            "Prefabricado",
+            "CRUD básico",
+            "Hosting incluido"
+        ],
+        "precio": "Desde $12,000 MXN",
+        "tiempo": "5-10 días",
+        "inversion": "$12,000 - $18,000 MXN",
+        "beneficios": [
+            "Rápida implementación",
+            "Automatiza procesos mínimos"
+        ],
+        "tecnologias": [
+            "React",
+            ".NET Core",
+            "SQLite"
+        ],
+        "timeline": [
+            {
+                "etapa": "Configuración",
+                "duracion": "1-2 días"
+            },
+            {
+                "etapa": "Personalización",
+                "duracion": "3-5 días"
+            },
+            {
+                "etapa": "Entrega y pruebas",
+                "duracion": "1-2 días"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "color": "gray",
+        "level": "Express",
+        "title": "Aplicaciones Android (Express)",
+        "desc": "App rápida y funcional basada en plantilla. Perfecta para mostrar servicios o productos.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/appExpressIcon.webp",
+        "features": [
+            "Diseño fijo",
+            "Catálogo o contacto",
+            "Entrega en 1 semana"
+        ],
+        "precio": "Desde $9,000 MXN",
+        "tiempo": "5-10 días",
+        "inversion": "$9,000 - $15,000 MXN",
+        "beneficios": [
+            "Presencia móvil inmediata",
+            "Publicable en Google Play"
+        ],
+        "tecnologias": [
+            "React Native",
+            "Expo",
+            "Firebase"
+        ],
+        "timeline": [
+            {
+                "etapa": "Ajustes visuales",
+                "duracion": "2 días"
+            },
+            {
+                "etapa": "Configuración de datos",
+                "duracion": "3-5 días"
+            },
+            {
+                "etapa": "Pruebas finales",
+                "duracion": "1-2 días"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "color": "gray",
+        "level": "Express",
+        "title": "Páginas Web (Express)",
+        "desc": "Landing profesional y responsiva lista en 3 días. Ideal para emprendimientos o lanzamientos.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/webExpressIcon.webp",
+        "features": [
+            "One Page",
+            "Formulario de contacto",
+            "SEO básico"
+        ],
+        "precio": "Desde $3,000 MXN",
+        "tiempo": "2-4 días",
+        "inversion": "$3,000 - $8,000 MXN",
+        "beneficios": [
+            "Presencia online inmediata",
+            "Optimización de carga"
+        ],
+        "tecnologias": [
+            "Next.js",
+            "Tailwind",
+            "Vercel"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño rápido",
+                "duracion": "1 día"
+            },
+            {
+                "etapa": "Implementación",
+                "duracion": "1-2 días"
+            },
+            {
+                "etapa": "Ajustes y entrega",
+                "duracion": "1 día"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "color": "cyan",
+        "level": "Básico",
+        "title": "Software a Medida (Básico)",
+        "desc": "Solución funcional enfocada en automatizar tareas o procesos puntuales.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/softwareBasicoIcon.webp",
+        "features": [
+            "Funcionalidad puntual",
+            "Integración simple",
+            "Soporte limitado"
+        ],
+        "precio": "Desde $60,000 MXN",
+        "tiempo": "5-7 semanas",
+        "inversion": "$60,000 - $120,000 MXN",
+        "beneficios": [
+            "Menos tareas manuales",
+            "Mayor control operativo"
+        ],
+        "tecnologias": [
+            "React",
+            ".NET Core",
+            "SQLite"
+        ],
+        "timeline": [
+            {
+                "etapa": "Análisis",
+                "duracion": "1 semana"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "3-5 semanas"
+            },
+            {
+                "etapa": "QA",
+                "duracion": "1 semana"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "color": "green",
+        "level": "Básico",
+        "title": "Aplicaciones Android (Básico)",
+        "desc": "Aplicación funcional con diseño sencillo y publicación en Google Play.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/appBasicoIcon.webp",
+        "features": [
+            "UI básica",
+            "Funcionalidad esencial",
+            "Google Play"
+        ],
+        "precio": "Desde $45,000 MXN",
+        "tiempo": "7-9 semanas",
+        "inversion": "$45,000 - $120,000 MXN",
+        "beneficios": [
+            "Presencia móvil rápida",
+            "Interacción con usuarios"
+        ],
+        "tecnologias": [
+            "React Native",
+            "Kotlin",
+            "Firebase"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño",
+                "duracion": "1 semana"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "5-6 semanas"
+            },
+            {
+                "etapa": "Testing",
+                "duracion": "1-2 semanas"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "color": "purple",
+        "level": "Básico",
+        "title": "Páginas Web (Básico)",
+        "desc": "Sitio informativo responsive y de carga rápida, ideal para presencia digital inicial.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/webBasicoIcon.webp",
+        "features": [
+            "Responsive",
+            "SEO básico",
+            "Diseño limpio"
+        ],
+        "precio": "Desde $18,000 MXN",
+        "tiempo": "3-4 semanas",
+        "inversion": "$18,000 - $45,000 MXN",
+        "beneficios": [
+            "Presencia online",
+            "Accesible desde móviles"
+        ],
+        "tecnologias": [
+            "Next.js",
+            "Tailwind"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño",
+                "duracion": "1 semana"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "2-3 semanas"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "color": "blue",
+        "level": "Estándar",
+        "title": "Software a Medida (Estándar)",
+        "desc": "Aplicación personalizada con módulos clave e integración entre sistemas internos.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/softwareEstandarIcon.webp",
+        "features": [
+            "Escalable",
+            "Integración con APIs",
+            "Panel administrativo"
+        ],
+        "precio": "Desde $90,000 MXN",
+        "tiempo": "8-11 semanas",
+        "inversion": "$90,000 - $250,000 MXN",
+        "beneficios": [
+            "Automatización de procesos",
+            "Control operativo"
+        ],
+        "tecnologias": [
+            "React",
+            ".NET Core",
+            "PostgreSQL"
+        ],
+        "timeline": [
+            {
+                "etapa": "Análisis",
+                "duracion": "1-2 semanas"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "6-8 semanas"
+            },
+            {
+                "etapa": "QA",
+                "duracion": "1 semana"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "color": "yellow",
+        "level": "Estándar",
+        "title": "Aplicaciones Android (Estándar)",
+        "desc": "App nativa o híbrida con rendimiento optimizado y diseño profesional.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/appEstandarIcon.webp",
+        "features": [
+            "UI moderna",
+            "Integración con APIs",
+            "Modo offline"
+        ],
+        "precio": "Desde $63,000 MXN",
+        "tiempo": "9-11 semanas",
+        "inversion": "$63,000 - $180,000 MXN",
+        "beneficios": [
+            "UX fluida",
+            "Mayor retención de usuarios"
+        ],
+        "tecnologias": [
+            "React Native",
+            "Kotlin",
+            "Firebase"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño",
+                "duracion": "2 semanas"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "6-8 semanas"
+            },
+            {
+                "etapa": "Testing",
+                "duracion": "1 semana"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "color": "red",
+        "level": "Estándar",
+        "title": "Páginas Web (Estándar)",
+        "desc": "Sitio optimizado para SEO, velocidad y experiencia móvil de nivel profesional.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/webEstandarIcon.webp",
+        "features": [
+            "SEO optimizado",
+            "Performance alta",
+            "Integración con analítica"
+        ],
+        "precio": "Desde $27,000 MXN",
+        "tiempo": "4-5 semanas",
+        "inversion": "$27,000 - $72,000 MXN",
+        "beneficios": [
+            "Mejor posicionamiento",
+            "Más conversiones"
+        ],
+        "tecnologias": [
+            "Next.js",
+            "Tailwind",
+            "Vercel"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño",
+                "duracion": "1 semana"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "2-3 semanas"
+            },
+            {
+                "etapa": "Ajustes finales",
+                "duracion": "1 semana"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "color": "indigo",
+        "level": "Premium",
+        "title": "Software a Medida (Premium)",
+        "desc": "Plataforma escalable con analítica avanzada, alta disponibilidad y soporte extendido.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/softwarePremiumIcon.webp",
+        "features": [
+            "Dashboard",
+            "Integraciones complejas",
+            "Soporte extendido"
+        ],
+        "precio": "Desde $180,000 MXN",
+        "tiempo": "13-17 semanas",
+        "inversion": "$180,000 - $450,000 MXN",
+        "beneficios": [
+            "Decisiones basadas en datos",
+            "Rendimiento y seguridad"
+        ],
+        "tecnologias": [
+            "React",
+            "Node.js",
+            "PostgreSQL",
+            "Docker"
+        ],
+        "timeline": [
+            {
+                "etapa": "Análisis",
+                "duracion": "2 semanas"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "9-13 semanas"
+            },
+            {
+                "etapa": "QA + ajustes",
+                "duracion": "2 semanas"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "color": "emerald",
+        "level": "Premium",
+        "title": "Aplicaciones Android (Premium)",
+        "desc": "App avanzada con sincronización en tiempo real, seguridad reforzada y CI/CD.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/appPremiumIcon.webp",
+        "features": [
+            "Realtime Sync",
+            "Push Notifications",
+            "Cifrado de datos"
+        ],
+        "precio": "Desde $126,000 MXN",
+        "tiempo": "12-16 semanas",
+        "inversion": "$126,000 - $270,000 MXN",
+        "beneficios": [
+            "Alta escalabilidad",
+            "Mantenimiento a largo plazo"
+        ],
+        "tecnologias": [
+            "React Native",
+            "Kotlin",
+            "Firebase",
+            "Cloud Functions"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño",
+                "duracion": "2 semanas"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "8-12 semanas"
+            },
+            {
+                "etapa": "Testing + ajustes",
+                "duracion": "2 semanas"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "color": "fuchsia",
+        "level": "Premium",
+        "title": "Páginas Web (Premium)",
+        "desc": "Sitio administrable con CMS, animaciones y optimización avanzada para conversiones.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-content/images/servicios/webPremiumIcon.webp",
+        "features": [
+            "CMS integrado",
+            "SEO técnico",
+            "Animaciones modernas"
+        ],
+        "precio": "Desde $54,000 MXN",
+        "tiempo": "6-7 semanas",
+        "inversion": "$54,000 - $144,000 MXN",
+        "beneficios": [
+            "Mayor control de contenido",
+            "Experiencia visual premium"
+        ],
+        "tecnologias": [
+            "Next.js",
+            "Tailwind",
+            "Vercel",
+            "Sanity CMS"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño",
+                "duracion": "1 semana"
+            },
+            {
+                "etapa": "Desarrollo",
+                "duracion": "4-5 semanas"
+            },
+            {
+                "etapa": "Ajustes + CMS",
+                "duracion": "1 semana"
+            }
+        ]
+    }
+]

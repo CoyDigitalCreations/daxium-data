@@ -5,7 +5,7 @@
         "level": "Express",
         "title": "Software a Medida (Express)",
         "desc": "Mini sistema interno listo en pocos días. Ideal para tareas simples o pruebas de concepto.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwareExpressIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwarexpress.webp",
         "features": [
             "Prefabricado",
             "CRUD básico",
@@ -44,7 +44,7 @@
         "level": "Express",
         "title": "Aplicaciones Android (Express)",
         "desc": "App rápida y funcional basada en plantilla. Perfecta para mostrar servicios o productos.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appExpressIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appexpress.webp",
         "features": [
             "Diseño fijo",
             "Catálogo o contacto",
@@ -83,7 +83,7 @@
         "level": "Express",
         "title": "Páginas Web (Express)",
         "desc": "Landing profesional y responsiva lista en 3 días. Ideal para emprendimientos o lanzamientos.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webExpressIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webexpress.webp",
         "features": [
             "One Page",
             "Formulario de contacto",
@@ -122,7 +122,7 @@
         "level": "Básico",
         "title": "Software a Medida (Básico)",
         "desc": "Solución funcional enfocada en automatizar tareas o procesos puntuales.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwareBasicoIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwarebasico.webp",
         "features": [
             "Funcionalidad puntual",
             "Integración simple",
@@ -161,7 +161,7 @@
         "level": "Básico",
         "title": "Aplicaciones Android (Básico)",
         "desc": "Aplicación funcional con diseño sencillo y publicación en Google Play.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appBasicoIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appbasico.webp",
         "features": [
             "UI básica",
             "Funcionalidad esencial",
@@ -200,7 +200,7 @@
         "level": "Básico",
         "title": "Páginas Web (Básico)",
         "desc": "Sitio informativo responsive y de carga rápida, ideal para presencia digital inicial.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webBasicoIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webasico.webp",
         "features": [
             "Responsive",
             "SEO básico",
@@ -234,7 +234,7 @@
         "level": "Estándar",
         "title": "Software a Medida (Estándar)",
         "desc": "Aplicación personalizada con módulos clave e integración entre sistemas internos.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwareEstandarIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwarestandar.webp",
         "features": [
             "Escalable",
             "Integración con APIs",
@@ -273,7 +273,7 @@
         "level": "Estándar",
         "title": "Aplicaciones Android (Estándar)",
         "desc": "App nativa o híbrida con rendimiento optimizado y diseño profesional.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appEstandarIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appestandar.webp",
         "features": [
             "UI moderna",
             "Integración con APIs",
@@ -312,7 +312,7 @@
         "level": "Estándar",
         "title": "Páginas Web (Estándar)",
         "desc": "Sitio optimizado para SEO, velocidad y experiencia móvil de nivel profesional.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webEstandarIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webestandar.webp",
         "features": [
             "SEO optimizado",
             "Performance alta",
@@ -351,7 +351,7 @@
         "level": "Premium",
         "title": "Software a Medida (Premium)",
         "desc": "Plataforma escalable con analítica avanzada, alta disponibilidad y soporte extendido.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwarePremiumIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/softwarepremium.webp",
         "features": [
             "Dashboard",
             "Integraciones complejas",
@@ -391,7 +391,7 @@
         "level": "Premium",
         "title": "Aplicaciones Android (Premium)",
         "desc": "App avanzada con sincronización en tiempo real, seguridad reforzada y CI/CD.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appPremiumIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/appremium.webp",
         "features": [
             "Realtime Sync",
             "Push Notifications",
@@ -431,7 +431,7 @@
         "level": "Premium",
         "title": "Páginas Web (Premium)",
         "desc": "Sitio administrable con CMS, animaciones y optimización avanzada para conversiones.",
-        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webPremiumIcon.webp",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webpremium.webp",
         "features": [
             "CMS integrado",
             "SEO técnico",

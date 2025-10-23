@@ -1,0 +1,75 @@
+{
+  "proyectos": [
+    {
+      "id": 1,
+      "titulo": "Sistema de Gestión Central de Sonrisas",
+      "descripcion": "Plataforma integral para gestión de inventarios, ventas y consultas en tiempo real.",
+      "categoria": "software",
+      "tecnologias": [
+        ".NET Core",
+        "C#",
+        "MySQL",
+        "Bootstrap",
+        "Firebase"
+      ],
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/Softwarelogo.webp",
+      "destacado": true,
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screensoftware1/screensoft1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screensoftware1/screensoft2.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screensoftware1/screensoft3.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screensoftware1/screensoft4.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "App Central de Sonrisas",
+      "descripcion": "Aplicación móvil para obtener citas de odontología, consultas y recompensas en tiempo real.",
+      "categoria": "mobile",
+      "tecnologias": [
+        "Kotlin",
+        "Firebase",
+        "Google Maps API",
+        "Jetpack Compose"
+      ],
+      "url": "https://play.google.com/apps/testing/com.coydigitalcreations.centraldesonrisas",
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoCS-fotor.webp",
+      "destacado": true,
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screenapp1/screenapp1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screenapp1/screenapp2.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screenapp1/screenapp3.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screenapp1/screenapp4.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Central de Sonrisas Web",
+      "descripcion": "Sitio web institucional con funcionalidades de gestión y consultas.",
+      "categoria": "web",
+      "tecnologias": [
+        "React",
+        "Tailwind",
+        "TypeScrpt",
+        "Firebase"
+      ],
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoWeb-fotor.webp",
+      "url": "https://centraldesonrisasweb.vercel.app",
+      "destacado": true
+    },
+    {
+      "id": 4,
+      "titulo": "Agbiopsicosocial",
+      "descripcion": "Pagina web de caracter informativo y de consultas de psicología y psicooncología.",
+      "categoria": "web",
+      "tecnologias": [
+        "Next.js",
+        "Tailwind",
+        "Vercel Analytics"
+      ],
+      "url": "https://agbiopsicosocial.vercel.app",
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/agbiopsicologo-fotor.webp",
+      "destacado": false
+    }
+  ]
+}

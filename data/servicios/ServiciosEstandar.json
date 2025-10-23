@@ -60,7 +60,7 @@
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarestandar.webp",
-            "color": "yellow"
+            "color": "blue"
         },
         {
             "id": 8,
@@ -181,7 +181,7 @@
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webestandar.webp",
-            "color": "yellow"
+            "color": "red"
         }
     ]
 }

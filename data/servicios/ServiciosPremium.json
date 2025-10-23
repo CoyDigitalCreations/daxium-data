@@ -57,7 +57,7 @@
                     "duracion": "2 semanas"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwarepremium.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarepremium.webp",
             "color": "indigo"
         },
         {
@@ -116,7 +116,7 @@
                     "duracion": "2 semanas"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appremium.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/appremium.webp",
             "color": "emerald"
         },
         {
@@ -176,7 +176,7 @@
                     "duracion": "1 semana"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webpremium.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webpremium.webp",
             "color": "fuchsia"
         }
     ]

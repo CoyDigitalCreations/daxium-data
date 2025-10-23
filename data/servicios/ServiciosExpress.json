@@ -59,7 +59,7 @@
                     "duracion": "1 día"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwarexpress.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarexpress.webp",
             "color": "gray"
         },
         {
@@ -120,7 +120,7 @@
                     "duracion": "1 día"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appexpress.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/appexpress.webp",
             "color": "gray"
         },
         {
@@ -181,7 +181,7 @@
                     "duracion": "1 día"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webexpress.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webexpress.webp",
             "color": "gray"
         }
     ]

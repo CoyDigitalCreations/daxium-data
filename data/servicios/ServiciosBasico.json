@@ -59,7 +59,7 @@
                     "duracion": "3 días"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/softwarebasico.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarebasico.webp",
             "color": "blue"
         },
         {
@@ -119,7 +119,7 @@
                     "duracion": "2 días"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/appbasico.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/appbasico.webp",
             "color": "blue"
         },
         {
@@ -179,7 +179,7 @@
                     "duracion": "1 día"
                 }
             ],
-            "icono": "https://coydigitalcreations.github.io/daxium-content/images/servicios/webbasico.webp",
+            "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webbasico.webp",
             "color": "blue"
         }
     ]

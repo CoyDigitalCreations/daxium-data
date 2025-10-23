@@ -1,0 +1,62 @@
+[
+    {
+        "number": "01",
+        "title": "Consultoría",
+        "desc": "Analizamos tus necesidades, objetivos e iniciamos el proyecto",
+        "details": [
+            "Reunión kickoff; stakeholders y alcance",
+            "Mapeo de procesos actuales y KPIs",
+            "Entregable: brief de proyecto y prioridades"
+        ]
+    },
+    {
+        "number": "02",
+        "title": "Diseño",
+        "desc": "Creamos prototipos y planificamos la solución",
+        "details": [
+            "Wireframes y flujo de usuario",
+            "Prototipo interactivo (Figma)",
+            "Revisión y aprobación antes de dev"
+        ]
+    },
+    {
+        "number": "03",
+        "title": "Desarrollo",
+        "desc": "Implementamos la solución con las mejores tecnologías",
+        "details": [
+            "Sprints pequeños y demos frecuentes",
+            "Control de versiones y despliegues en staging",
+            "Integraciones y endpoints documentados"
+        ]
+    },
+    {
+        "number": "04",
+        "title": "QA y Validación",
+        "desc": "Probamos y validamos funcionalidad, experiencia y UX",
+        "details": [
+            "Pruebas funcionales y de regresión",
+            "Pruebas en dispositivos reales",
+            "Checklist de aceptación para entrega"
+        ]
+    },
+    {
+        "number": "05",
+        "title": "Despliegue",
+        "desc": "Publicamos y monitoreamos el lanzamiento",
+        "details": [
+            "Go‑live coordinado; rollback plan",
+            "Monitoreo inicial y alertas",
+            "Entrega de documentación y accesos"
+        ]
+    },
+    {
+        "number": "06",
+        "title": "Mantenimiento",
+        "desc": "Soporte, optimizaciones y mejoras continuas",
+        "details": [
+            "Retainer mensual opcional",
+            "Actualizaciones de seguridad y performance",
+            "Roadmap de mejoras y nuevas features"
+        ]
+    }
+]

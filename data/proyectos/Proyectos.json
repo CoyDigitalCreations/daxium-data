@@ -14,6 +14,27 @@
       ],
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/Softwarelogo.webp",
       "destacado": true,
+      "estado": "privado",
+      "beneficios": [
+        "Optimización completa de procesos internos",
+        "Gestión centralizada de inventarios y ventas",
+        "Automatización de reportes financieros y de desempeño",
+        "Seguridad reforzada con respaldo en la nube"
+      ],
+      "entregables": [
+        "Arquitectura modular y escalable basada en .NET Core",
+        "Panel administrativo responsive con control de usuarios",
+        "Integración con Firebase para autenticación y notificaciones",
+        "Sistema de reportes automatizados y estadísticas",
+        "Conexión con base de datos MySQL optimizada"
+      ],
+      "timeline": [
+        "Kickoff y análisis funcional — 1 semana",
+        "Diseño de arquitectura y base de datos — 2 semanas",
+        "Desarrollo backend y lógica de negocio — 3 semanas",
+        "Implementación de interfaz y pruebas — 2 semanas",
+        "Despliegue y capacitación del personal — 1 semana"
+      ],
       "screenshots": [
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screensoftware1/screensoft1.webp",
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screensoftware1/screensoft2.webp",
@@ -24,7 +45,7 @@
     {
       "id": 2,
       "titulo": "App Central de Sonrisas",
-      "descripcion": "Aplicación móvil para obtener citas de odontología, consultas y recompensas en tiempo real.",
+      "descripcion": "Aplicación móvil para citas odontológicas, consultas y recompensas.",
       "categoria": "mobile",
       "tecnologias": [
         "Kotlin",
@@ -35,6 +56,27 @@
       "url": "https://play.google.com/apps/testing/com.coydigitalcreations.centraldesonrisas",
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoCS-fotor.webp",
       "destacado": true,
+      "estado": "publico",
+      "beneficios": [
+        "Gestión de citas médicas en tiempo real",
+        "Notificaciones push para recordatorios y promociones",
+        "Ubicación de clínicas mediante Google Maps API",
+        "Interfaz moderna y fluida con Jetpack Compose"
+      ],
+      "entregables": [
+        "Prototipo funcional en Figma",
+        "Aplicación nativa Android desarrollada en Kotlin",
+        "Integración completa con Firebase (Auth, Firestore y Storage)",
+        "Sistema de geolocalización con Google Maps API",
+        "Notificaciones push y sincronización con el sistema web"
+      ],
+      "timeline": [
+        "Análisis de requerimientos y diseño UI — 1 semana",
+        "Desarrollo de módulos principales — 3 semanas",
+        "Integración con APIs y Firebase — 2 semanas",
+        "Pruebas funcionales y de usabilidad — 2 semanas",
+        "Publicación y mantenimiento — 1 semana"
+      ],
       "screenshots": [
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screenapp1/screenapp1.webp",
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/screenapp1/screenapp2.webp",
@@ -50,17 +92,38 @@
       "tecnologias": [
         "React",
         "Tailwind",
-        "TypeScrpt",
+        "TypeScript",
         "Firebase"
       ],
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoWeb-fotor.webp",
       "url": "https://centraldesonrisasweb.vercel.app",
-      "destacado": true
+      "destacado": true,
+      "estado": "publico",
+      "beneficios": [
+        "Presencia digital profesional con enfoque UX/UI",
+        "Panel de gestión para pacientes y doctores",
+        "Carga rápida y optimización SEO avanzada",
+        "Integración en tiempo real con Firebase"
+      ],
+      "entregables": [
+        "Diseño de interfaz responsiva con React y Tailwind",
+        "Desarrollo de panel administrativo seguro",
+        "Autenticación y base de datos en Firebase",
+        "Integración de métricas de rendimiento",
+        "Optimización para motores de búsqueda (SEO)"
+      ],
+      "timeline": [
+        "Definición de arquitectura y diseño — 1 semana",
+        "Desarrollo del frontend con React — 3 semanas",
+        "Integración con Firebase — 1 semana",
+        "Optimización SEO y pruebas — 1 semana",
+        "Despliegue en Vercel y documentación — 1 semana"
+      ]
     },
     {
       "id": 4,
       "titulo": "Agbiopsicosocial",
-      "descripcion": "Pagina web de caracter informativo y de consultas de psicología y psicooncología.",
+      "descripcion": "Página web informativa para psicología y psicooncología.",
       "categoria": "web",
       "tecnologias": [
         "Next.js",
@@ -69,7 +132,28 @@
       ],
       "url": "https://agbiopsicosocial.vercel.app",
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/agbiopsicologo-fotor.webp",
-      "destacado": false
+      "destacado": false,
+      "estado": "publico",
+      "beneficios": [
+        "Diseño visual profesional y minimalista",
+        "Carga optimizada para alto rendimiento",
+        "Sección editable de publicaciones informativas",
+        "Analítica en tiempo real mediante Vercel Analytics"
+      ],
+      "entregables": [
+        "Landing page con enfoque profesional y empático",
+        "Blog editable para artículos de psicooncología",
+        "Formularios de contacto con validación de datos",
+        "Optimización SEO y despliegue en Vercel",
+        "Integración con herramientas de análisis de tráfico"
+      ],
+      "timeline": [
+        "Reunión inicial y definición de objetivos — 1 semana",
+        "Diseño visual y desarrollo principal — 2 semanas",
+        "Optimización SEO y performance — 1 semana",
+        "Pruebas y ajustes finales — 1 semana",
+        "Lanzamiento y seguimiento post-publicación — 1 semana"
+      ]
     }
   ]
 }

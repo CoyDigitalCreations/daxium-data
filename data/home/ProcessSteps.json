@@ -12,7 +12,7 @@
     {
         "number": "02",
         "title": "Diseño",
-        "desc": "Creamos prototipos y planificamos la solución",
+        "desc": "Creamos prototipos y planificamos la solución a la medida",
         "details": [
             "Wireframes y flujo de usuario",
             "Prototipo interactivo (Figma)",
@@ -42,7 +42,7 @@
     {
         "number": "05",
         "title": "Despliegue",
-        "desc": "Publicamos y monitoreamos el lanzamiento",
+        "desc": "Publicamos y monitoreamos el lanzamiento de la solución",
         "details": [
             "Go‑live coordinado; rollback plan",
             "Monitoreo inicial y alertas",
@@ -52,7 +52,7 @@
     {
         "number": "06",
         "title": "Mantenimiento",
-        "desc": "Soporte, optimizaciones y mejoras continuas",
+        "desc": "Soporte, optimizaciones y mejoras continuas post-lanzamiento",
         "details": [
             "Retainer mensual opcional",
             "Actualizaciones de seguridad y performance",

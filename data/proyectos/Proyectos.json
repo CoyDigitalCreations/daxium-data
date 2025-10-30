@@ -65,7 +65,6 @@
         "Interfaz moderna y fluida con Jetpack Compose"
       ],
       "entregables": [
-        "Prototipo funcional en Figma",
         "Aplicación nativa Android desarrollada en Kotlin",
         "Integración completa con Firebase (Auth, Firestore y Storage)",
         "Sistema de geolocalización con Google Maps API",
@@ -98,7 +97,6 @@
       ],
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoWeb-fotor.webp",
       "url": "https://centraldesonrisasweb.vercel.app",
-      "github": "https://github.com/CoyDigitalCreations/centraldesonrisasweb.git",
       "destacado": true,
       "estado": "publico",
       "beneficios": [

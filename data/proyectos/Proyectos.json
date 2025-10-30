@@ -54,7 +54,6 @@
         "Jetpack Compose"
       ],
       "url": "https://play.google.com/apps/testing/com.coydigitalcreations.centraldesonrisas",
-      "github": "https://github.com/CoyDigitalCreations/centraldesonrisasweb.git",
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoCS-fotor.webp",
       "destacado": true,
       "estado": "publico",
@@ -97,6 +96,7 @@
       ],
       "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/LogoWeb-fotor.webp",
       "url": "https://centraldesonrisasweb.vercel.app",
+      "github": "https://github.com/CoyDigitalCreations/centraldesonrisasweb.git",
       "destacado": true,
       "estado": "publico",
       "beneficios": [

@@ -122,10 +122,10 @@
                 "Preparada para store reviews enterprise"
             ],
             "casosUso": [
-                "Apps financieras y bancarias",
-                "Plataformas de salud con HIPAA",
-                "Apps de logística en tiempo real",
-                "Marketplaces móviles a gran escala"
+                "Plataformas de delivery premium (Glovo/Rappi style)",
+                "Apps de fitness con planificación inteligente",
+                "Marketplaces B2B con catálogos complejos",
+                "Apps educativas con contenido interactivo avanzado"
             ],
             "tecnologias": [
                 "React Native + Módulos nativos",
@@ -206,10 +206,10 @@
                 "Cumplimiento de estándares enterprise (SOC2, ISO27001)"
             ],
             "casosUso": [
-                "Sistemas core banking",
-                "Plataformas SaaS multi-tenant enterprise",
-                "Sistemas de trading algorítmico",
-                "Plataformas de analítica big data"
+                "ERP para manufactura avanzada",
+                "Plataformas de telemedicina empresarial",
+                "Sistemas de logística y cadena de suministro",
+                "Plataformas EdTech para instituciones educativas"
             ],
             "tecnologias": [
                 ".NET Core/Java",

@@ -6,9 +6,9 @@
             "nivel": "Básico",
             "descripcion": "Sitio web personalizado con diseño único y panel de administración básico.",
             "problema": "Necesitas un sitio web profesional que puedas actualizar tú mismo.",
-            "precio": "Desde $6,000 MXN",
-            "tiempo": "2-3 semanas",
-            "inversion": "$6,000 - $15,000 MXN",
+            "precio": "Desde $9,900 MXN + IVA",
+            "tiempo": "~3 semanas",
+            "inversion": "$9,900 - $20,000 MXN + IVA",
             "notaInversion": "Depende del número de páginas y funcionalidades.",
             "tags": [
                 "Diseño personalizado",
@@ -50,19 +50,19 @@
             "timeline": [
                 {
                     "etapa": "Diseño y planificación",
-                    "duracion": "3-4 días"
+                    "duracion": "3 días"
                 },
                 {
                     "etapa": "Desarrollo frontend",
-                    "duracion": "5-7 días"
+                    "duracion": "6 días"
                 },
                 {
                     "etapa": "Desarrollo backend",
-                    "duracion": "3-4 días"
+                    "duracion": "3 días"
                 },
                 {
                     "etapa": "Testing y entrega",
-                    "duracion": "2-3 días"
+                    "duracion": "3 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webasico.webp",
@@ -80,9 +80,9 @@
             "nivel": "Básico",
             "descripcion": "Aplicación móvil personalizada con funcionalidades esenciales y panel web.",
             "problema": "Necesitas una app con funciones específicas y control del contenido.",
-            "precio": "Desde $18,000 MXN",
-            "tiempo": "3-4 semanas",
-            "inversion": "$18,000 - $35,000 MXN",
+            "precio": "Desde $31,000 MXN + IVA",
+            "tiempo": "~6 semanas",
+            "inversion": "$31,000 - $62,000 MXN + IVA",
             "notaInversion": "Según número de pantallas y complejidad.",
             "tags": [
                 "Desarrollo personalizado",
@@ -124,19 +124,19 @@
             "timeline": [
                 {
                     "etapa": "Diseño UI/UX",
-                    "duracion": "4-5 días"
+                    "duracion": "6 días"
                 },
                 {
                     "etapa": "Desarrollo frontend",
-                    "duracion": "8-10 días"
+                    "duracion": "12 días"
                 },
                 {
                     "etapa": "Desarrollo backend",
-                    "duracion": "5-6 días"
+                    "duracion": "7 días"
                 },
                 {
                     "etapa": "Testing y ajustes",
-                    "duracion": "3-4 días"
+                    "duracion": "5 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/appbasico.webp",
@@ -154,9 +154,9 @@
             "nivel": "Básico",
             "descripcion": "Sistema personalizado con módulos esenciales para operaciones diarias.",
             "problema": "Necesitas digitalizar procesos específicos de tu negocio.",
-            "precio": "Desde $25,000 MXN",
-            "tiempo": "3-4 semanas",
-            "inversion": "$25,000 - $50,000 MXN",
+            "precio": "Desde $40,000 MXN + IVA",
+            "tiempo": "~7 semanas",
+            "inversion": "$40,000 - $80,000 MXN + IVA",
             "notaInversion": "Según número de módulos y complejidad.",
             "tags": [
                 "Sistema personalizado",
@@ -198,19 +198,19 @@
             "timeline": [
                 {
                     "etapa": "Análisis y arquitectura",
-                    "duracion": "4-5 días"
+                    "duracion": "7 días"
                 },
                 {
                     "etapa": "Desarrollo backend",
-                    "duracion": "8-10 días"
+                    "duracion": "13 días"
                 },
                 {
                     "etapa": "Desarrollo frontend",
-                    "duracion": "6-8 días"
+                    "duracion": "10 días"
                 },
                 {
                     "etapa": "Implementación",
-                    "duracion": "3-4 días"
+                    "duracion": "5 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarebasico.webp",

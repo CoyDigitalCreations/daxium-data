@@ -6,9 +6,9 @@
             "nivel": "Express",
             "descripcion": "Landing page o sitio informativo basado en plantillas pre-diseñadas, listo en 5-10 días.",
             "problema": "Necesitas presencia web inmediata con inversión mínima.",
-            "precio": "Desde $3,000 MXN",
-            "tiempo": "5-10 días hábiles",
-            "inversion": "$3,000 - $6,000 MXN",
+            "precio": "Desde $4,900 MXN + IVA",
+            "tiempo": "5 días hábiles",
+            "inversion": "$4,900 - $9,900 MXN + IVA",
             "notaInversion": "Precio fijo según plantilla seleccionada.",
             "tags": [
                 "Plantilla pre-diseñada",
@@ -50,11 +50,11 @@
                 },
                 {
                     "etapa": "Personalización",
-                    "duracion": "3-5 días"
+                    "duracion": "3 días"
                 },
                 {
                     "etapa": "Revisión y entrega",
-                    "duracion": "1-2 días"
+                    "duracion": "1 día"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webexpress.webp",
@@ -72,9 +72,9 @@
             "nivel": "Express",
             "descripcion": "Aplicación básica basada en plantillas, ideal para mostrar productos o servicios.",
             "problema": "Necesitas una app simple sin desarrollo complejo.",
-            "precio": "Desde $9,000 MXN",
-            "tiempo": "7-10 días hábiles",
-            "inversion": "$9,000 - $18,000 MXN",
+            "precio": "Desde $12,900 MXN + IVA",
+            "tiempo": "10 días hábiles",
+            "inversion": "$12,900 - $25,000 MXN + IVA",
             "notaInversion": "Según plantilla y personalización básica.",
             "tags": [
                 "Plantilla pre-configurada",
@@ -112,11 +112,11 @@
             "timeline": [
                 {
                     "etapa": "Configuración plantilla",
-                    "duracion": "2-3 días"
+                    "duracion": "3 días"
                 },
                 {
                     "etapa": "Personalización contenido",
-                    "duracion": "3-5 días"
+                    "duracion": "5 días"
                 },
                 {
                     "etapa": "Testing y entrega",
@@ -138,9 +138,9 @@
             "nivel": "Express",
             "descripcion": "Sistema básico pre-configurado para necesidades específicas comunes.",
             "problema": "Necesitas automatizar procesos simples rápidamente.",
-            "precio": "Desde $12,000 MXN",
-            "tiempo": "5-10 días hábiles",
-            "inversion": "$12,000 - $25,000 MXN",
+            "precio": "Desde $15,900 MXN + IVA",
+            "tiempo": "10 días hábiles",
+            "inversion": "$15,900 - $32,000 MXN + IVA",
             "notaInversion": "Precio según módulo pre-configurado.",
             "tags": [
                 "Sistema pre-configurado",
@@ -182,11 +182,11 @@
                 },
                 {
                     "etapa": "Configuración",
-                    "duracion": "3-7 días"
+                    "duracion": "7 días"
                 },
                 {
                     "etapa": "Capacitación básica",
-                    "duracion": "1 día"
+                    "duracion": "2 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarexpress.webp",

@@ -6,9 +6,9 @@
             "nivel": "Premium",
             "descripcion": "Solución web empresarial de alta gama con arquitectura escalable y funcionalidades avanzadas.",
             "problema": "Necesitas una plataforma web de alto rendimiento para operaciones críticas de negocio.",
-            "precio": "Desde $54,000 MXN",
-            "tiempo": "6-8 semanas",
-            "inversion": "$54,000 - $150,000 MXN",
+            "precio": "Desde $54,000 MXN + IVA",
+            "tiempo": "~8 semanas",
+            "inversion": "$54,000 - $150,000 MXN + IVA",
             "notaInversion": "Depende de la escala, complejidad y requerimientos de alto rendimiento.",
             "tags": [
                 "Arquitectura escalable",
@@ -62,19 +62,19 @@
             "timeline": [
                 {
                     "etapa": "Arquitectura y planificación",
-                    "duracion": "10-12 días"
+                    "duracion": "9 días"
                 },
                 {
                     "etapa": "Desarrollo backend escalable",
-                    "duracion": "15-18 días"
+                    "duracion": "13 días"
                 },
                 {
                     "etapa": "Desarrollo frontend de alto rendimiento",
-                    "duracion": "12-15 días"
+                    "duracion": "11 días"
                 },
                 {
                     "etapa": "Optimización y despliegue enterprise",
-                    "duracion": "8-10 días"
+                    "duracion": "7 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webpremium.webp",
@@ -92,9 +92,9 @@
             "nivel": "Premium",
             "descripcion": "Aplicación móvil de clase enterprise con arquitectura nativa híbrida y máximo rendimiento.",
             "problema": "Necesitas una app de alto rendimiento para grandes volúmenes de usuarios y datos.",
-            "precio": "Desde $126,000 MXN",
-            "tiempo": "8-12 semanas",
-            "inversion": "$126,000 - $300,000 MXN",
+            "precio": "Desde $126,000 MXN + IVA",
+            "tiempo": "~14 semanas",
+            "inversion": "$126,000 - $300,000 MXN + IVA",
             "notaInversion": "Según complejidad técnica, integraciones enterprise y escalabilidad.",
             "tags": [
                 "Arquitectura nativa",
@@ -145,19 +145,19 @@
             "timeline": [
                 {
                     "etapa": "Arquitectura y diseño técnico",
-                    "duracion": "12-15 días"
+                    "duracion": "14 días"
                 },
                 {
                     "etapa": "Desarrollo backend escalable",
-                    "duracion": "18-22 días"
+                    "duracion": "20 días"
                 },
                 {
                     "etapa": "Desarrollo frontend móvil premium",
-                    "duracion": "20-25 días"
+                    "duracion": "25 días"
                 },
                 {
                     "etapa": "Testing enterprise y publicación",
-                    "duracion": "10-12 días"
+                    "duracion": "11 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/appremium.webp",
@@ -175,9 +175,9 @@
             "nivel": "Premium",
             "descripcion": "Sistema empresarial de última generación con arquitectura cloud-native y capacidades de IA.",
             "problema": "Necesitas un sistema mission-critical con máxima disponibilidad, seguridad y escalabilidad.",
-            "precio": "Desde $180,000 MXN",
-            "tiempo": "12-16 semanas",
-            "inversion": "$180,000 - $500,000 MXN",
+            "precio": "Desde $180,000 MXN + IVA",
+            "tiempo": "~16 semanas",
+            "inversion": "$180,000 - $500,000 MXN + IVA",
             "notaInversion": "Para sistemas enterprise con requerimientos de alta disponibilidad y complejidad.",
             "tags": [
                 "Cloud Native",
@@ -232,19 +232,19 @@
             "timeline": [
                 {
                     "etapa": "Arquitectura y planificación enterprise",
-                    "duracion": "15-18 días"
+                    "duracion": "16 días"
                 },
                 {
                     "etapa": "Desarrollo backend cloud-native",
-                    "duracion": "25-30 días"
+                    "duracion": "27 días"
                 },
                 {
                     "etapa": "Desarrollo frontend enterprise",
-                    "duracion": "20-25 días"
+                    "duracion": "21 días"
                 },
                 {
                     "etapa": "Implementación IA y optimización",
-                    "duracion": "15-20 días"
+                    "duracion": "16 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarepremium.webp",

@@ -11,9 +11,9 @@
             "CRUD básico para gestión de datos",
             "Hosting incluido y configuración inicial"
         ],
-        "precio": "Desde $12,000 MXN",
-        "tiempo": "5-10 días",
-        "inversion": "$12,000 - $18,000 MXN",
+        "precio": "Desde $15,900 MXN + IVA",
+        "tiempo": "10 días hábiles",
+        "inversion": "$15,900 - $32,000 MXN + IVA",
         "beneficios": [
             "Implementación rápida para pruebas de concepto",
             "Automatización de tareas mínimas sin complicaciones"
@@ -26,15 +26,15 @@
         "timeline": [
             {
                 "etapa": "Configuración",
-                "duracion": "1-2 días"
+                "duracion": "2 días"
             },
             {
                 "etapa": "Personalización de contenido",
-                "duracion": "3-5 días"
+                "duracion": "6 días"
             },
             {
                 "etapa": "Entrega y pruebas funcionales",
-                "duracion": "1-2 días"
+                "duracion": "2 días"
             }
         ]
     },
@@ -50,9 +50,9 @@
             "Catálogo de productos o formulario de contacto",
             "Entrega en menos de una semana"
         ],
-        "precio": "Desde $9,000 MXN",
-        "tiempo": "5-10 días",
-        "inversion": "$9,000 - $15,000 MXN",
+        "precio": "Desde $12,900 MXN + IVA",
+        "tiempo": "10 días hábiles",
+        "inversion": "$12,900 - $25,000 MXN + IVA",
         "beneficios": [
             "Presencia móvil inmediata",
             "Publicable en Google Play fácilmente"
@@ -65,15 +65,15 @@
         "timeline": [
             {
                 "etapa": "Ajustes visuales y branding",
-                "duracion": "2 días"
+                "duracion": "3 días"
             },
             {
                 "etapa": "Configuración de datos y contenidos",
-                "duracion": "3-5 días"
+                "duracion": "5 días"
             },
             {
                 "etapa": "Pruebas finales y entrega",
-                "duracion": "1-2 días"
+                "duracion": "2 días"
             }
         ]
     },
@@ -89,9 +89,9 @@
             "Formulario de contacto funcional",
             "SEO básico para visibilidad inicial"
         ],
-        "precio": "Desde $3,000 MXN",
-        "tiempo": "2-4 días",
-        "inversion": "$3,000 - $8,000 MXN",
+        "precio": "Desde $4,900 MXN + IVA",
+        "tiempo": "5 días hábiles",
+        "inversion": "$4,900 - $9,900 MXN + IVA",
         "beneficios": [
             "Presencia online inmediata",
             "Optimización básica de velocidad y carga"
@@ -108,11 +108,11 @@
             },
             {
                 "etapa": "Implementación y maquetación",
-                "duracion": "1-2 días"
+                "duracion": "2 días"
             },
             {
                 "etapa": "Ajustes finales y entrega",
-                "duracion": "1 día"
+                "duracion": "2 días"
             }
         ]
     },
@@ -128,9 +128,9 @@
             "Integración simple con sistemas existentes",
             "Soporte inicial limitado"
         ],
-        "precio": "Desde $60,000 MXN",
-        "tiempo": "5-7 semanas",
-        "inversion": "$60,000 - $120,000 MXN",
+        "precio": "Desde $40,000 MXN + IVA",
+        "tiempo": "~7 semanas",
+        "inversion": "$40,000 - $80,000 MXN + IVA",
         "beneficios": [
             "Menos tareas manuales",
             "Mayor control operativo sin complejidades"
@@ -143,15 +143,15 @@
         "timeline": [
             {
                 "etapa": "Análisis de necesidades",
-                "duracion": "1 semana"
+                "duracion": "6 días"
             },
             {
                 "etapa": "Desarrollo de funcionalidades básicas",
-                "duracion": "3-5 semanas"
+                "duracion": "24 días"
             },
             {
                 "etapa": "Pruebas y QA",
-                "duracion": "1 semana"
+                "duracion": "5 días"
             }
         ]
     },
@@ -167,9 +167,9 @@
             "Funcionalidad esencial para usuarios",
             "Publicación en Google Play incluida"
         ],
-        "precio": "Desde $45,000 MXN",
-        "tiempo": "7-9 semanas",
-        "inversion": "$45,000 - $120,000 MXN",
+        "precio": "Desde $31,000 MXN + IVA",
+        "tiempo": "~6 semanas",
+        "inversion": "$31,000 - $62,000 MXN + IVA",
         "beneficios": [
             "Presencia móvil rápida",
             "Interacción sencilla con usuarios"
@@ -182,15 +182,54 @@
         "timeline": [
             {
                 "etapa": "Diseño y prototipado",
-                "duracion": "1 semana"
+                "duracion": "4 días"
             },
             {
                 "etapa": "Desarrollo funcional",
-                "duracion": "5-6 semanas"
+                "duracion": "21 días"
             },
             {
                 "etapa": "Pruebas y ajustes finales",
-                "duracion": "1-2 semanas"
+                "duracion": "5 días"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "color": "orange",
+        "level": "Básico",
+        "title": "Páginas Web (Básico)",
+        "desc": "Sitio a tu medida con diseño propio y panel para que edites tu contenido sin depender de nadie.",
+        "icon": "https://CoyDigitalCreations.github.io/daxium-data/images/servicios/webasico.webp",
+        "features": [
+            "Diseño personalizado de hasta 8 páginas",
+            "Panel para editar tu contenido",
+            "Blog y SEO on-page incluidos"
+        ],
+        "precio": "Desde $9,900 MXN + IVA",
+        "tiempo": "~3 semanas",
+        "inversion": "$9,900 - $20,000 MXN + IVA",
+        "beneficios": [
+            "Control total del contenido sin programar",
+            "Mejor posicionamiento en Google"
+        ],
+        "tecnologias": [
+            "Next.js",
+            "Tailwind",
+            "Supabase"
+        ],
+        "timeline": [
+            {
+                "etapa": "Diseño y planificación",
+                "duracion": "3 días"
+            },
+            {
+                "etapa": "Desarrollo del sitio y panel",
+                "duracion": "9 días"
+            },
+            {
+                "etapa": "Pruebas y entrega",
+                "duracion": "3 días"
             }
         ]
     },
@@ -206,9 +245,9 @@
             "Integración con APIs y sistemas existentes",
             "Panel administrativo completo"
         ],
-        "precio": "Desde $90,000 MXN",
-        "tiempo": "8-11 semanas",
-        "inversion": "$90,000 - $250,000 MXN",
+        "precio": "Desde $65,000 MXN + IVA",
+        "tiempo": "~11 semanas",
+        "inversion": "$65,000 - $130,000 MXN + IVA",
         "beneficios": [
             "Automatización de procesos clave",
             "Control total sobre la operación interna"
@@ -221,15 +260,15 @@
         "timeline": [
             {
                 "etapa": "Análisis y planificación",
-                "duracion": "1-2 semanas"
+                "duracion": "9 días"
             },
             {
                 "etapa": "Desarrollo de módulos clave",
-                "duracion": "6-8 semanas"
+                "duracion": "41 días"
             },
             {
                 "etapa": "QA y ajustes finales",
-                "duracion": "1 semana"
+                "duracion": "5 días"
             }
         ]
     },
@@ -245,9 +284,9 @@
             "Integración con APIs externas",
             "Funcionalidad offline disponible"
         ],
-        "precio": "Desde $63,000 MXN",
-        "tiempo": "9-11 semanas",
-        "inversion": "$63,000 - $180,000 MXN",
+        "precio": "Desde $49,000 MXN + IVA",
+        "tiempo": "~9 semanas",
+        "inversion": "$49,000 - $98,000 MXN + IVA",
         "beneficios": [
             "Experiencia de usuario fluida",
             "Mayor retención de clientes"
@@ -260,15 +299,15 @@
         "timeline": [
             {
                 "etapa": "Diseño y prototipado",
-                "duracion": "2 semanas"
+                "duracion": "9 días"
             },
             {
                 "etapa": "Desarrollo funcional",
-                "duracion": "6-8 semanas"
+                "duracion": "31 días"
             },
             {
                 "etapa": "Testing y ajustes finales",
-                "duracion": "1 semana"
+                "duracion": "5 días"
             }
         ]
     },
@@ -284,9 +323,9 @@
             "Integración con herramientas de analítica",
             "Diseño adaptable a dispositivos y resoluciones"
         ],
-        "precio": "Desde $27,000 MXN",
-        "tiempo": "4-5 semanas",
-        "inversion": "$27,000 - $72,000 MXN",
+        "precio": "Desde $19,000 MXN + IVA",
+        "tiempo": "~5 semanas",
+        "inversion": "$19,000 - $38,000 MXN + IVA",
         "beneficios": [
             "Mejor posicionamiento en buscadores",
             "Mayor conversión y engagement"
@@ -299,15 +338,15 @@
         "timeline": [
             {
                 "etapa": "Diseño profesional",
-                "duracion": "1 semana"
+                "duracion": "6 días"
             },
             {
                 "etapa": "Desarrollo y maquetación",
-                "duracion": "2-3 semanas"
+                "duracion": "14 días"
             },
             {
                 "etapa": "Ajustes finales y entrega",
-                "duracion": "1 semana"
+                "duracion": "5 días"
             }
         ]
     },
@@ -323,9 +362,9 @@
             "Integraciones complejas con sistemas internos y externos",
             "Soporte extendido y mantenimiento"
         ],
-        "precio": "Desde $180,000 MXN",
-        "tiempo": "13-17 semanas",
-        "inversion": "$180,000 - $450,000 MXN",
+        "precio": "Desde $180,000 MXN + IVA",
+        "tiempo": "~16 semanas",
+        "inversion": "$180,000 - $500,000 MXN + IVA",
         "beneficios": [
             "Decisiones estratégicas basadas en datos",
             "Rendimiento confiable y seguro"
@@ -339,15 +378,15 @@
         "timeline": [
             {
                 "etapa": "Análisis y planificación avanzada",
-                "duracion": "2 semanas"
+                "duracion": "11 días"
             },
             {
                 "etapa": "Desarrollo completo de módulos",
-                "duracion": "9-13 semanas"
+                "duracion": "59 días"
             },
             {
                 "etapa": "QA, ajustes y entrega final",
-                "duracion": "2 semanas"
+                "duracion": "10 días"
             }
         ]
     },
@@ -363,9 +402,9 @@
             "Notificaciones push multicanal",
             "Cifrado avanzado de datos sensibles"
         ],
-        "precio": "Desde $126,000 MXN",
-        "tiempo": "12-16 semanas",
-        "inversion": "$126,000 - $270,000 MXN",
+        "precio": "Desde $126,000 MXN + IVA",
+        "tiempo": "~14 semanas",
+        "inversion": "$126,000 - $300,000 MXN + IVA",
         "beneficios": [
             "Alta escalabilidad para grandes volúmenes de usuarios",
             "Mantenimiento y actualizaciones garantizadas"
@@ -379,15 +418,15 @@
         "timeline": [
             {
                 "etapa": "Diseño y prototipado",
-                "duracion": "2 semanas"
+                "duracion": "10 días"
             },
             {
                 "etapa": "Desarrollo completo y escalable",
-                "duracion": "8-12 semanas"
+                "duracion": "50 días"
             },
             {
                 "etapa": "Testing, ajustes y entrega final",
-                "duracion": "2 semanas"
+                "duracion": "10 días"
             }
         ]
     },
@@ -403,9 +442,9 @@
             "SEO técnico y optimización de performance",
             "Animaciones modernas y responsivas"
         ],
-        "precio": "Desde $54,000 MXN",
-        "tiempo": "6-7 semanas",
-        "inversion": "$54,000 - $144,000 MXN",
+        "precio": "Desde $54,000 MXN + IVA",
+        "tiempo": "~8 semanas",
+        "inversion": "$54,000 - $150,000 MXN + IVA",
         "beneficios": [
             "Mayor control de contenido",
             "Experiencia visual y de navegación premium"
@@ -419,15 +458,15 @@
         "timeline": [
             {
                 "etapa": "Diseño y prototipado premium",
-                "duracion": "1 semana"
+                "duracion": "6 días"
             },
             {
                 "etapa": "Desarrollo funcional con CMS",
-                "duracion": "4-5 semanas"
+                "duracion": "29 días"
             },
             {
                 "etapa": "Ajustes, animaciones y entrega final",
-                "duracion": "1 semana"
+                "duracion": "5 días"
             }
         ]
     }

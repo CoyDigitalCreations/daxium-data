@@ -6,9 +6,9 @@
             "nivel": "Estándar",
             "descripcion": "Plataforma web completa con funcionalidades avanzadas y sistema de contenido dinámico.",
             "problema": "Necesitas un sitio web complejo con gestión de contenido avanzada y múltiples funcionalidades.",
-            "precio": "Desde $12,000 MXN",
-            "tiempo": "3-5 semanas",
-            "inversion": "$12,000 - $30,000 MXN",
+            "precio": "Desde $19,000 MXN + IVA",
+            "tiempo": "~5 semanas",
+            "inversion": "$19,000 - $38,000 MXN + IVA",
             "notaInversion": "Depende de la complejidad de funcionalidades e integraciones.",
             "tags": [
                 "CMS avanzado",
@@ -56,19 +56,19 @@
             "timeline": [
                 {
                     "etapa": "Diseño y arquitectura",
-                    "duracion": "5-7 días"
+                    "duracion": "5 días"
                 },
                 {
                     "etapa": "Desarrollo frontend avanzado",
-                    "duracion": "8-10 días"
+                    "duracion": "8 días"
                 },
                 {
                     "etapa": "Desarrollo backend y CMS",
-                    "duracion": "7-9 días"
+                    "duracion": "7 días"
                 },
                 {
                     "etapa": "Integraciones y testing",
-                    "duracion": "5-7 días"
+                    "duracion": "5 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/webestandar.webp",
@@ -87,9 +87,9 @@
             "nivel": "Estándar",
             "descripcion": "Aplicación móvil robusta con funcionalidades avanzadas y sincronización en tiempo real.",
             "problema": "Necesitas una app con experiencia de usuario premium y funcionalidades complejas.",
-            "precio": "Desde $35,000 MXN",
-            "tiempo": "4-6 semanas",
-            "inversion": "$35,000 - $70,000 MXN",
+            "precio": "Desde $49,000 MXN + IVA",
+            "tiempo": "~9 semanas",
+            "inversion": "$49,000 - $98,000 MXN + IVA",
             "notaInversion": "Según complejidad de integraciones y funcionalidades.",
             "tags": [
                 "Backend personalizado",
@@ -138,19 +138,19 @@
             "timeline": [
                 {
                     "etapa": "Arquitectura y diseño",
-                    "duracion": "6-8 días"
+                    "duracion": "9 días"
                 },
                 {
                     "etapa": "Desarrollo backend",
-                    "duracion": "10-12 días"
+                    "duracion": "15 días"
                 },
                 {
                     "etapa": "Desarrollo frontend móvil",
-                    "duracion": "8-10 días"
+                    "duracion": "12 días"
                 },
                 {
                     "etapa": "Integración y testing",
-                    "duracion": "6-8 días"
+                    "duracion": "9 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/appestandar.webp",
@@ -169,9 +169,9 @@
             "nivel": "Estándar",
             "descripcion": "Sistema empresarial completo con múltiples módulos integrados y analítica avanzada.",
             "problema": "Necesitas un sistema integral que automatice múltiples áreas de tu negocio.",
-            "precio": "Desde $45,000 MXN",
-            "tiempo": "5-7 semanas",
-            "inversion": "$45,000 - $90,000 MXN",
+            "precio": "Desde $65,000 MXN + IVA",
+            "tiempo": "~11 semanas",
+            "inversion": "$65,000 - $130,000 MXN + IVA",
             "notaInversion": "Según número de módulos e integraciones complejas.",
             "tags": [
                 "Sistema modular",
@@ -221,19 +221,19 @@
             "timeline": [
                 {
                     "etapa": "Análisis y arquitectura",
-                    "duracion": "7-10 días"
+                    "duracion": "11 días"
                 },
                 {
                     "etapa": "Desarrollo backend modular",
-                    "duracion": "12-15 días"
+                    "duracion": "19 días"
                 },
                 {
                     "etapa": "Desarrollo frontend",
-                    "duracion": "10-12 días"
+                    "duracion": "14 días"
                 },
                 {
                     "etapa": "Integración y testing",
-                    "duracion": "8-10 días"
+                    "duracion": "11 días"
                 }
             ],
             "icono": "https://coydigitalcreations.github.io/daxium-data/images/servicios/softwarestandar.webp",

@@ -154,6 +154,136 @@
         "Pruebas y ajustes finales — 1 semana",
         "Lanzamiento y seguimiento post-publicación — 1 semana"
       ]
+    },
+    {
+      "id": 5,
+      "titulo": "Éter TCG",
+      "descripcion": "Juego de cartas coleccionable con herramienta de creación de cartas, manual de reglas, lore y partidas en línea.",
+      "categoria": "web",
+      "tecnologias": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Supabase",
+        "Zustand",
+        "Framer Motion"
+      ],
+      "url": "https://epic-tgc.vercel.app",
+      "github": "https://github.com/CoyDigitalCreations/epic-tgc",
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/epic/cover.webp",
+      "destacado": true,
+      "estado": "publico",
+      "beneficios": [
+        "Manual de reglas y lore del universo disponibles dentro del sitio",
+        "Tablero de balance que mide el poder y las estadísticas de cada carta",
+        "Partidas en línea con perfil y lista de amigos"
+      ],
+      "entregables": [
+        "Creador de cartas con acceso administrativo",
+        "Tablero de balance con métricas por mazo, tipo, coste y rareza",
+        "Manual de reglas v1.0 y sección de lore",
+        "Base de datos y autenticación en Supabase",
+        "Scripts para sincronizar cartas y regenerar textos"
+      ],
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/epic/shot1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/epic/shot2.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Correduría Pública 39",
+      "descripcion": "Sitio institucional para una correduría pública de la Ciudad de México: servicios, ubicación y contacto.",
+      "categoria": "web",
+      "tecnologias": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "React Router"
+      ],
+      "url": "https://correduria-three.vercel.app",
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/correduria/cover.webp",
+      "destacado": false,
+      "estado": "publico",
+      "beneficios": [
+        "Presencia digital institucional, clara y sobria",
+        "Explica cada función del corredor: fedatario, perito valuador, agente mediador, asesor jurídico y árbitro",
+        "Mapa de ubicación y horarios de atención a la vista"
+      ],
+      "entregables": [
+        "Sitio institucional con secciones de inicio, nosotros, servicios, ubicaciones y contacto",
+        "Integración con Google Maps",
+        "Despliegue en Vercel"
+      ],
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/correduria/shot1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/correduria/shot2.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Appronto",
+      "descripcion": "Portal web de una plataforma que conecta negocios locales con repartidores. Proyecto desarrollado en colaboración.",
+      "categoria": "web",
+      "tecnologias": [
+        "Next.js",
+        "Tailwind CSS",
+        "TanStack Query",
+        "Firebase",
+        "Google Maps API"
+      ],
+      "url": "https://appronto-mvp-3ess.vercel.app",
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto/cover.webp",
+      "destacado": false,
+      "estado": "publico",
+      "beneficios": [
+        "Capta tanto a negocios como a repartidores desde un mismo sitio",
+        "Registro de negocios y de repartidores",
+        "Contacto directo con el equipo por formulario y WhatsApp"
+      ],
+      "entregables": [
+        "Portal de vendedores en Next.js con inicio de sesión",
+        "Integración con Google Maps y Firebase",
+        "Forma parte de una plataforma con backend, panel administrativo y app Android"
+      ],
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto/shot1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto/shot2.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "CRM de Inscripciones y Comisiones",
+      "descripcion": "Plataforma para gestionar aspirantes, pagos, documentos y comisiones de un equipo comercial con jerarquía de cinco niveles.",
+      "categoria": "software",
+      "tecnologias": [
+        "Spring Boot",
+        "Java 17",
+        "Next.js",
+        "Tailwind CSS",
+        "Chart.js"
+      ],
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/cover.webp",
+      "destacado": false,
+      "estado": "privado",
+      "beneficios": [
+        "Seguimiento de aspirantes desde el registro hasta la inscripción",
+        "Control de pagos con estatus de atraso y saldos pendientes",
+        "Estadísticas con embudo de conversión, ingresos y proyección mensual",
+        "Comisiones y nóminas calculadas según el nivel del equipo"
+      ],
+      "entregables": [
+        "API REST en Spring Boot con autenticación y roles",
+        "Panel con módulos de aspirantes, pagos, documentos, estadísticas, comisiones, nóminas y equipo",
+        "Modelos de precios y reglas de comisión configurables",
+        "Gráficas interactivas con Chart.js"
+      ],
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/shot1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/shot2.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/shot3.webp"
+      ]
     }
   ]
 }

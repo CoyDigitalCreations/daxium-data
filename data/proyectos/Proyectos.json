@@ -224,7 +224,7 @@
     {
       "id": 7,
       "titulo": "Appronto",
-      "descripcion": "Portal web de una plataforma que conecta negocios locales con repartidores. Proyecto desarrollado en colaboración.",
+      "descripcion": "Portal web de una plataforma que conecta negocios locales con repartidores.",
       "categoria": "web",
       "tecnologias": [
         "Next.js",
@@ -283,6 +283,74 @@
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/shot1.webp",
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/shot2.webp",
         "https://coydigitalcreations.github.io/daxium-data/images/proyectos/crm/shot3.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Eureka IA",
+      "descripcion": "Plataforma de marketing con IA: analista virtual para campañas en Meta y Google, y cursos y herramientas para crear video ads ultra realistas.",
+      "categoria": "web",
+      "tecnologias": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "FastAPI",
+        "Gemini",
+        "Stripe",
+        "Auth0"
+      ],
+      "url": "https://www.iaeureka.com",
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/eureka/cover.webp",
+      "destacado": true,
+      "estado": "publico",
+      "beneficios": [
+        "Un solo sitio para analizar campañas y aprender a producir video ads con IA",
+        "Cursos en línea y herramientas para generar video ads ultra realistas",
+        "Registro gratuito y planes de pago con cobro en línea"
+      ],
+      "entregables": [
+        "Sitio web y plataforma en Next.js con inicio de sesión y registro con Auth0",
+        "API en FastAPI integrada con los modelos de Gemini",
+        "Cobro de planes y cursos con Stripe Checkout",
+        "Páginas de productos, planes y precios, términos y aviso de privacidad"
+      ],
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/eureka/shot1.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "Appronto Repartidores",
+      "descripcion": "Aplicación Android para repartidores de la plataforma Appronto: reciben pedidos cercanos, navegan al punto de recogida y entrega, y piden ayuda desde la app.",
+      "categoria": "mobile",
+      "tecnologias": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Firebase",
+        "Google Maps API",
+        "Room",
+        "Retrofit"
+      ],
+      "imagen": "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto-app/cover.webp",
+      "destacado": false,
+      "estado": "privado",
+      "beneficios": [
+        "El repartidor activa su disponibilidad con un toque y recibe pedidos cercanos",
+        "Cada pedido muestra monto, distancias y vehículo requerido antes de aceptarlo",
+        "Navegación directa al punto de recogida y al destino",
+        "Centro de ayuda con atajos para emergencias, incidentes y soporte"
+      ],
+      "entregables": [
+        "App nativa Android en Kotlin con interfaz en Jetpack Compose",
+        "Inicio de sesión con Google o correo mediante Firebase",
+        "Mapa con Google Maps y seguimiento de ubicación en segundo plano",
+        "Notificaciones push y almacenamiento local con Room",
+        "Historial de pedidos, perfil del repartidor y centro de ayuda"
+      ],
+      "screenshots": [
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto-app/shot1.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto-app/shot2.webp",
+        "https://coydigitalcreations.github.io/daxium-data/images/proyectos/appronto-app/shot3.webp"
       ]
     }
   ]
